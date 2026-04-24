@@ -1,0 +1,6 @@
+Primeiros comandos em git
+
+git init .
+
+
+
